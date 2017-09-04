@@ -12,5 +12,3 @@ Orthogonal search:
 Essentially pathfinding, the program recursively searches for the letter all around the current position,
 if it finds a match it jumps to that position and searches all around for the next letter. until the full word is found
 or no letter around the current position matches what it is looking for.
-
-Note: Over commented.
