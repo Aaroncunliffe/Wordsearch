@@ -1,6 +1,6 @@
 # Wordsearch (Assignment)
 
-This program was a university assignment for completing a wordsearch (limited to 1 source file).
+This program was a 1st year university assignment for completing a wordsearch (limited to 1 source file).
 Given 2 text files, one the wordsearch grid and the other a list of words to search for.
 Constants for ROWLENGTH and COLUMNDEPTH can be found in the file, defaults are ROWLENGTH = 14, COLUMNDEPTH = 4.
 
